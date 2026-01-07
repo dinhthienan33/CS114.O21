@@ -11,6 +11,8 @@
 
 ## **CS114.O21- MACHINE LEARNING - UIT**
 
+Kho lưu trữ bài tập, báo cáo và tài liệu tham khảo của lớp CS114.O21 (Machine Learning) tại UIT.
+
 ### Giáo viên hướng dẫn
 
 Họ tên | Email
